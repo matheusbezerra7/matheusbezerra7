@@ -12,10 +12,11 @@ sigo me apaixonando cada vez mais por desenvolvimento. Fazer as coisas acontecer
 
 <h5> Entre em contato comigo : </h5>
 <a target="_blank" href="https://www.linkedin.com/in/matheus-bezerra7/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+" />
 </a>
 <a target="_blank" href="mailto:matheus.bezerra1007@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </br>
