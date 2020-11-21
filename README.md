@@ -11,7 +11,6 @@ sigo me apaixonando cada vez mais por desenvolvimento. Fazer as coisas acontecer
 
 
 <h5 align="left"> Entre em contato comigo : </h5>
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/matheusbezerra7)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/matheus-bezerra7/)
 
 <h5 align="left">Usadas recentemente em meus estudos</h5>
