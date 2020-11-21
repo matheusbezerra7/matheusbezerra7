@@ -1,13 +1,13 @@
 <img align="right" width="400" height="400" src="https://i.imgur.com/3a5Rd7O.png">
 
-<h1>👋 Olá Pessoal ! Seja bem vindo(a)</h1>
+#👋 Olá Pessoal ! Seja bem vindo(a)
 
-<h1 align="center">Eu sou o Matheus Bezerra</h1>
+##Eu sou o Matheus Bezerra
 
 
-<h3 align="center">Sou uma pessoa curiosa quando o assunto é tecnologia. Conhecer ferramentas e tecnologias novas me deixa sempre muito entusiasmado. 
+..Sou uma pessoa curiosa quando o assunto é tecnologia. Conhecer ferramentas e tecnologias novas me deixa sempre muito entusiasmado. 
 Meu primeiro contato com desenvolvimento foi cursando programação Java. E desde então, 
-sigo me apaixonando cada vez mais por desenvolvimento. Fazer as coisas acontecerem de forma eficiente e criativa me fascina.</h3>
+sigo me apaixonando cada vez mais por desenvolvimento. Fazer as coisas acontecerem de forma eficiente e criativa me fascina.
 
 
 <h2 align="left"> Contatos </h2>
