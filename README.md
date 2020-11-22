@@ -2,7 +2,7 @@
 
 <h4>👋 Olá Pessoal ! Seja bem vindo(a)</h4>
 
-<h4>Eu sou o Matheus Bezerra</h4>
+<h3>Eu sou o Matheus Bezerra</h3>
 
 
 ..Sou uma pessoa curiosa quando o assunto é tecnologia. Conhecer ferramentas e tecnologias novas me deixa sempre muito entusiasmado. 
@@ -11,7 +11,7 @@ sigo me apaixonando cada vez mais por desenvolvimento. Fazer as coisas acontecer
 
 </br>
 </br>
-<h5> Entre em contato comigo : </h5>
+<h4> Entre em contato comigo : </h4>
 <a target="_blank" href="https://www.linkedin.com/in/matheus-bezerra7/">
   <img align="left" alt="LinkdeIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -22,7 +22,7 @@ sigo me apaixonando cada vez mais por desenvolvimento. Fazer as coisas acontecer
 </br>
 </br>
 </br>
-<h5> Meu Portfólio <a href="https://matheusbezerra7.github.io/portfolio/" target="_blank">Clique aqui !</a></h5>
+<h4> Meu Portfólio <a href="https://matheusbezerra7.github.io/portfolio/" target="_blank">Clique aqui !</a></h4>
 
 </br>
 <h5 align="left">Usadas recentemente em meus estudos</h5>
