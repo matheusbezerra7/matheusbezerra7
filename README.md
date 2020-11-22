@@ -22,7 +22,8 @@ sigo me apaixonando cada vez mais por desenvolvimento. Fazer as coisas acontecer
 </br>
 </br>
 </br>
-<h4> Meu Portfólio <a href="https://matheusbezerra7.github.io/portfolio/" target="_blank">Clique aqui !</a></h4>
+<img align="left" width="40" alt="Gmail" src="http://www.fortieventi.com/wp-content/uploads/2013/06/icon-portfolio1.png" /><h4> Meu Portfólio</h4><a href="https://matheusbezerra7.github.io/portfolio/" target="_blank">Clique aqui !</a>
+
 
 </br>
 <h5 align="left">Usadas recentemente em meus estudos</h5>
